@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Iurii.
+- 👀 I’m Merchant Marine Officer looking for opportunities to become junior Front-End Developer. 
+- 🌱 I’m currently learning JavaScript.
+- 📫 Feel free to write me on Furmaniurii@gmail.com or Telegram(+79992402695).
