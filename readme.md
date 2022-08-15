@@ -9,7 +9,6 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7400)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 
 
 ### Follow Me
