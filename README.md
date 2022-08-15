@@ -3,7 +3,7 @@
 ![About me] 
 ## Junior Frontend Developer
 
-![Languages and Tools]
-(https://img.shields.io/badge/-HTML-200772?style=flat-square&logo=appveyor)
+![Languages and Tools](https://img.shields.io/badge/-HTML-200772?
+style=flat-square&logo=appveyor)
 
 Follow me
