@@ -4,8 +4,8 @@
 ## Junior Frontend Developer
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=BF3030)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000	)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=4671D5)
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
 
 Follow me
