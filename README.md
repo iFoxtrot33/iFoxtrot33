@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Iurii.
-- 👀 I’m ex Merchant Marine Officer. Student of Hexlet coding school. Looking for opportunities to become junior Front-End developer. 
-- 🌱 I’m currently learning JavaScript.
-- 📫 Feel free to write me on Furmaniurii@gmail.com or Telegram(+79992402695).
+[Header]![Iurii Furman](https://user-images.githubusercontent.com/102408798/184615046-e0d05c78-25f0-4f09-bfa2-50d59192b725.png)
+
+
+About me
+
+Languages and Tools 
+
+Follow me
