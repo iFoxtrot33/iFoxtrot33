@@ -4,6 +4,6 @@
 ## Junior Frontend Developer
 
 ![Languages and Tools]
-(https://img.shields.io/static/v1?label=&message=<HTML>&color=<200772>?style=flat-square&logo=appveyor)
+(https://img.shields.io/badge/-HTML-200772?style=flat-square&logo=appveyor)
 
 Follow me
