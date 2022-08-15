@@ -5,5 +5,6 @@
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=ffffff)
-
+![CSS](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html&logoColor=ffffff)
+![JS](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 Follow me
