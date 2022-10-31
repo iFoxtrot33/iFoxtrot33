@@ -1,6 +1,11 @@
-![Iurii Furman](https://user-images.githubusercontent.com/102408798/184616798-6563110f-1798-4652-a20a-9e69803e59c3.png)
+## Hi there!
+____________
+I'm Iurii, Junior Frontend Developer, curently looking for a job. 
 
-## Junior Frontend Developer
+## About me
+___________
+
+
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
