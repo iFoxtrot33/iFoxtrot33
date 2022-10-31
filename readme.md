@@ -4,7 +4,10 @@ I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job
 
 ## About me
 ___________
-
+In the past, I worked as a merchant marine officer, until I was invited to join a startup. 
+The startup unfortunately failed, but I decided from that moment to pursue a career in tech. 
+At the moment, I am in the final stage of my education at Hexlet Coding School. 
+I am happy to hear from you. 
 
 
 ### Languages and Tools
