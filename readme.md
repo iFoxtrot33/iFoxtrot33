@@ -18,6 +18,7 @@ At the moment, I am in the final stage of my education at Hexlet Coding School a
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jquery&logoColor=4800ff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=a900ff)
 
 
 ### Follow Me
