@@ -6,7 +6,7 @@ I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job
 
 In the past, I worked as a merchant marine officer, until I was invited to join a startup. 
 The startup unfortunately failed, but I decided from that moment to pursue a career in tech. 
-At the moment, I am in the final stage of my education at Hexlet Coding School and I am happy to hear from you. 
+I will be glad to hear from you😊 
 
 
 ### Languages and Tools
@@ -19,6 +19,8 @@ At the moment, I am in the final stage of my education at Hexlet Coding School a
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jquery&logoColor=4800ff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=a900ff)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=bootstrap&logoColor=4800ff)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=bootstrap&logoColor=4800ff)
 
 
 ### Follow Me
