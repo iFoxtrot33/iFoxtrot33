@@ -19,8 +19,8 @@ I will be glad to hear from you😊
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jquery&logoColor=4800ff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=a900ff)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=bootstrap&logoColor=4800ff)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=bootstrap&logoColor=4800ff)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=4800ff)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=4800ff)
 
 
 ### Follow Me
