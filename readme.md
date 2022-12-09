@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job.(Remote or based in Georgia)
+I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job.(Remote or based in Georgia).
 
 ## About me
 
