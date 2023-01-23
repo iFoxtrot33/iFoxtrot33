@@ -21,9 +21,15 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=4671D5)](https://t.me/iuriifurman)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://furmaniurii@gmail.com)
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" />
+</p>
+
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/furmaniurii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furmaniurii" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/furmaniurii">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furmaniurii" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" /></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" /></p><br><br>
