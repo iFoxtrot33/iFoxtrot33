@@ -21,7 +21,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" />
 </p>
 
 ______________________________________________
