@@ -20,7 +20,7 @@
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://furmaniurii@gmail.com)
 
 ________________________________________
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" /></p>
 
 _________________________________________
 <h3 align="left">Support:</h3>
