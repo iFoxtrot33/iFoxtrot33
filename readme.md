@@ -1,4 +1,3 @@
-## Hi there!👋
 <h1 align="center">Hi 👋, I'm Iurii Furman</h1>
 <h3 align="center">Frontend developer with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js. Always eager to learn and improve my skills.</h3>
 I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job.(Remote or based in Georgia).
