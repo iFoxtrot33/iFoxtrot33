@@ -14,12 +14,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=#4c70da)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" /></p>
-_______________________________________________
+
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=4671D5)](https://t.me/iuriifurman)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://furmaniurii@gmail.com)
 
-_________________________________________________
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" /></p>
 
 _________________________________________
