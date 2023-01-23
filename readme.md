@@ -1,13 +1,11 @@
 ## Hi there!👋
-
+<h1 align="center">Hi 👋, I'm Iurii Furman</h1>
+<h3 align="center">Frontend developer with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js. Always eager to learn and improve my skills.</h3>
 I'm Iurii, Junior Frontend Developer 👨🏻‍💻, curently looking for a job.(Remote or based in Georgia).
 
 ## About me
 
-In the past, I worked as a merchant marine officer, until I was invited to join a startup. 
-The startup unfortunately failed, but I decided from that moment to pursue a career in tech. 
-I will be glad to hear from you😊 
-
+Frontend developer with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js.
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
