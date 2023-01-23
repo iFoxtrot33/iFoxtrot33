@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Iurii Furman</h1>
-<h6 >Frontend developer  with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js. Always eager to learn and improve my skills.</h6>
+<h5 >Frontend developer  with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js. Always eager to learn and improve my skills.</h5>
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
