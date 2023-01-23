@@ -14,7 +14,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=#4c70da)
 
 
-
+<style>
+  .img {
+    float: left;
+  }
+</style>
 
 
 ### Follow Me
@@ -22,8 +26,8 @@
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://furmaniurii@gmail.com)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" />
+  <img class='img' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" />
+  <img class='img' align="center" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" />
 </p>
 
 <h3 align="left">Support:</h3>
