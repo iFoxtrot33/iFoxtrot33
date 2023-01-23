@@ -13,22 +13,17 @@
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=#4c70da)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" /></p>
-<br>
-<br>
-____________________________________________________
+
+
+
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=4671D5)](https://t.me/iuriifurman)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://furmaniurii@gmail.com)
 
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoxtrot33&show_icons=true&locale=en&layout=compact" alt="ifoxtrot33" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifoxtrot33&show_icons=true&locale=en" alt="ifoxtrot33" /></p>
-<br>
-<br>
-<br>
+
 _________________________________________
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/furmaniurii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furmaniurii" /></a></p><br><br>
