@@ -2,20 +2,33 @@
 <span style="font-family: 'Arial'"><h4>Frontend developer  with a passion for creating efficient and user-friendly web applications. Skilled in Next.js, React, TypeScript. I am always eager to learn and improve my skills.</h4><span>
 
 ### Languages and Tools
+![Next](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=#7daafb)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
+![Redux toolkit](https://img.shields.io/badge/-ReduxToolkit-000000?style=for-the-badge&logo=redux&logoColor=#7daafb)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logoColor=#7daafb)
+![React-Query](https://img.shields.io/badge/-ReactQuery-000000?style=for-the-badge&logo=reactquery&logoColor=#7daafb)
+
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=4671D5)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=#7daafb)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
+![SASS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styledcomponents&logoColor=FF0000)
 
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
+![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD300)
+
+![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD300)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=graphql&logoColor=FFD300)
+![Appolo GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=apollographql&logoColor=FFD300)
+
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7400)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
-![React-Query](https://img.shields.io/badge/-ReactQuery-000000?style=for-the-badge&logo=reactquery&logoColor=#7daafb)
-![Next](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=#7daafb)
+
+
+
 
 
 
