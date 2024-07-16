@@ -17,14 +17,19 @@
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
 ![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 
-![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD300)
-![GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=graphql&logoColor=FFD300)
-![Apollo GraphQl](https://img.shields.io/badge/-Apollo_GraphQl-000000?style=for-the-badge&logo=apollographql&logoColor=FFD300)
+![REST API](https://img.shields.io/badge/-REST_API-000000?style=for-the-badge&logo=typescript)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=graphql)
+![Apollo GraphQl](https://img.shields.io/badge/-Apollo_GraphQl-000000?style=for-the-badge&logo=apollographql)
 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7400)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
+
+
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
+![Rollup](https://img.shields.io/badge/-Rollup-000000?style=for-the-badge&logo=rollupdotjs)
 
 
 
