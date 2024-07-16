@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=4671D5)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=#7daafb)
 ![SASS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
-![Styled Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styledcomponents&logoColor=FF0000)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-000000?style=for-the-badge&logo=styledcomponents&logoColor=FF0000)
 
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
 ![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
