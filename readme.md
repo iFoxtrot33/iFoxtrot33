@@ -19,7 +19,7 @@
 
 ![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD300)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=graphql&logoColor=FFD300)
-![Appolo GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=apollographql&logoColor=FFD300)
+![Apollo GraphQl](https://img.shields.io/badge/-Apollo_GraphQl-000000?style=for-the-badge&logo=apollographql&logoColor=FFD300)
 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7400)
