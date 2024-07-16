@@ -1,17 +1,23 @@
 <h1 >Hi 👋, I'm Iurii Furman</h1>
-<span style="font-family: 'Arial'"><h4>Frontend developer  with a passion for creating efficient and user-friendly web applications. Skilled in React, TypeScript, and Node.js. Always eager to learn and improve my skills.</h4><span>
+<span style="font-family: 'Arial'"><h4>Frontend developer  with a passion for creating efficient and user-friendly web applications. Skilled in Next.js, React, TypeScript. I am always eager to learn and improve my skills.</h4><span>
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=4671D5)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=#7daafb)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-000000?style=for-the-badge&logo=styledcomponents&logoColor=FF0000)
+
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7400)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
+
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
 ![React-Query](https://img.shields.io/badge/-ReactQuery-000000?style=for-the-badge&logo=reactquery&logoColor=#7daafb)
 ![Next](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=#7daafb)
+
+
 
 
 
