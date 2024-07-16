@@ -10,7 +10,7 @@
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor=FF0000)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
-![React](https://img.shields.io/badge/-React-Query-000000?style=for-the-badge&logo=reactquery&logoColor=#7daafb)
+![React](https://img.shields.io/badge/-ReactQuery-000000?style=for-the-badge&logo=reactquery&logoColor=#7daafb)
 
 
 
