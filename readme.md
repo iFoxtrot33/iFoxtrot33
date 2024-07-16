@@ -17,7 +17,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFD300)
 ![TS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 
-![REST API](https://img.shields.io/badge/-REST_API-000000?style=for-the-badge&logo=typescript)
+![REST API](https://img.shields.io/badge/-REST_API-000000?style=for-the-badge)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&logo=graphql)
 ![Apollo GraphQl](https://img.shields.io/badge/-Apollo_GraphQl-000000?style=for-the-badge&logo=apollographql)
 
@@ -31,14 +31,12 @@
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
 ![Rollup](https://img.shields.io/badge/-Rollup-000000?style=for-the-badge&logo=rollupdotjs)
 
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest)
+![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest)
+![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-000000?style=for-the-badge)
 
-
-
-
-
-
-
-
+![ESLint](https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=for-the-badge&logo=prettier)
 
 
 
