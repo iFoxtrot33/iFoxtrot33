@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Iurii Furman</h1>
-<span style="font-family: 'Arial'"><h4>Backend Go developer/Full-stack (React + Go) developer.</h4><span>
+<span style="font-family: 'Arial'"><h4>Backend Go developer / Full-stack (React + Go) developer.</h4><span>
 
 
 <p>
